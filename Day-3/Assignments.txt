@@ -1,0 +1,13 @@
+    1. Print the name of all employees whose age is greater than 30.
+       
+    2. Print the name of all persons who work in the physical department, with random order.
+       
+    3. For every person in the table, print an abbreviation of his first name and last name.
+       
+    4. Find out all the options for uniq, cut, head, tail, sed.
+       
+    5. Using ls, find out all the files that have read/write/execute permission for others.
+       
+    6. Create a file with four columns - name, age, salary, department.
+       
+    7. Find an ID list out the tar files in the temp directory, save the output in a new file using input redirection.
