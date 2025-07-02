@@ -1,5 +1,0 @@
-./Desktop/day.tar
-./Desktop/akash/secZ/archive.tar
-./Desktop/Devops_2025/Day-3/test_directory.tar
-./Desktop/Devops_2025/Day2/25-06-25.tar
-./Desktop/Devops_2025/Day2/archieve_folder.tar
